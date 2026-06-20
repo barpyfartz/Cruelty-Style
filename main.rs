@@ -318,7 +318,7 @@ fn main() {
         "MDMA (fix of bug with jittery movement)",
         "ParkinsonSyndrome (shaky hands)", 
         "CEOMindsetTrip (rainbow screen. useless js for fun ig)",
-        "HPIcon (custom hp icon - supports PNG, JPG, JPEG, GIF (yes even videogifs))",
+        "HPIcon (custom hp icon include gifs)",
         "IShowSpeed (shows ur current speed)",
         "uninstall cruelty style"
     ];
