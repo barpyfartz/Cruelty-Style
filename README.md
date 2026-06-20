@@ -1,5 +1,6 @@
 # Cruelty Style 
 TUI App made on rust to patch Cruelty Squad with some tuff and fun features. Lowk works only at steam version so gna fix it for pirates
+- Made straight with a reason that nobody cant make a public FOV patcher
 ## Features
 - **FOV & Gamma Unlocker**: Obvious ig
 - **MDMA (Jitter Fix)**: Js enables interp. built in the game to fix jittery movement
