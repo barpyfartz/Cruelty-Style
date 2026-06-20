@@ -7,7 +7,7 @@ TUI App made on rust to patch Cruelty Squad with some tuff and fun features. Low
 - **Parkinson Syndrome**: makes ur hands shake. thats all
 - **CEO Mindset Trip**: rainbow 
 - **Custom HP Icon**: replaces the hp icon on your own picture, or gif
-- **IShowSpeed**: very ass made but works and ass placement. shows ur speed
+- **IShowSpeed**: very ass made and ass placement, but it works. shows ur speed
 
 ## Installation
 
