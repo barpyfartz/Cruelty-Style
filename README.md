@@ -11,7 +11,7 @@ TUI App made on rust to patch Cruelty Squad with some tuff and fun features. Low
 
 ## Installation
 
-1. Download the latest executable from the [Releases](#) tab (available for Linux and Windows).
+1. Download the latest executable from the [Releases](https://github.com/barpyfartz/Cruelty-Style/releases/tag/Release) tab (available for Linux and Windows).
 2. Run it
 
 ### Requirements
